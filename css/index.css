@@ -1,9 +1,3 @@
-.slider {
-    height: auto;
-}
-.slick-prev:before, .slick-next:before{
-    color: black;
-}
 .card{
 	width: 49%;
 	display: inline-block;
